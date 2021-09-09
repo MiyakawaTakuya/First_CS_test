@@ -1,0 +1,13 @@
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/bin/Debug/netcoreapp3.1/Constructor.deps.json
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/bin/Debug/netcoreapp3.1/Constructor.runtimeconfig.json
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/bin/Debug/netcoreapp3.1/Constructor.runtimeconfig.dev.json
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/bin/Debug/netcoreapp3.1/Constructor.dll
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/bin/Debug/netcoreapp3.1/Constructor.pdb
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.csproj.AssemblyReference.cache
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.AssemblyInfoInputs.cache
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.AssemblyInfo.cs
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.csproj.CoreCompileInputs.cache
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.dll
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.pdb
+/Users/miyagawatakuya/Desktop/ASP.NET Core/FirstCSr/Udemy_CS_Learn/Constructor/obj/Debug/netcoreapp3.1/Constructor.genruntimeconfig.cache
